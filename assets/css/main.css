@@ -1,0 +1,13 @@
+div{
+  padding: 5px 0px 40px 5px;
+  display: block;
+  font-family: Helvetica;
+}
+.a, .c{
+  background-color: yellow;
+  }
+
+.b{
+  background-color: deeppink;
+  font-family: cursive;
+}
