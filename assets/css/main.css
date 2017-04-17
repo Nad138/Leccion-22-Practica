@@ -1,11 +1,8 @@
 div{
   align-items: center;
-  margin: 15px;
-  margin-left: 200px;
-  padding: 5px 0px 40px 5px;
-  width: 170px;
-  height: 20px;
-  display: block;
+  margin: 5px;
+  padding: 5px 15px 5px 3px;
+  display: inline-block;
   font-family: Helvetica;
 }
 .a, .c{
@@ -15,4 +12,5 @@ div{
 .b{
   background-color: deeppink;
   font-family: cursive;
+  font-size: 13px;
 }
